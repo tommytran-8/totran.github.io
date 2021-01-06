@@ -32,7 +32,7 @@ git commit
 
 This is my [link](https://github.com/tommytran-8/totran.github.io.git).
 
-This is my [Section Link](# Markdown Image)
+This is my [Section Link](https://github.com/tommytran-8/totran.github.io#markdown-image)
 
 This is my [Relative Link](./README.md)
 
@@ -46,7 +46,7 @@ This is my [Relative Link](./README.md)
 2. James Monroe
 3. John Quincy Adams
 
-
+#### lists 2
 1. First list item
    - First nested list item
      - Second nested list item
