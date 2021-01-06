@@ -8,8 +8,11 @@ Using Markdown
 ## Header2
 ### Header3
 #### Header4
+
 **bold**
+
 *italicized*
+
 ~~This was mistaken text~~
 **This text is _extremely_ important**
 ***All this text is important***
