@@ -14,7 +14,9 @@ Using Markdown
 *italicized*
 
 ~~This was mistaken text~~
+
 **This text is _extremely_ important**
+
 ***All this text is important***
 
 > This is a quote.
@@ -29,7 +31,9 @@ git commit
 ```
 
 This is my [link](https://github.com/tommytran-8/totran.github.io.git).
-This is my [Section Link](# totran.github.io)
+
+This is my [Section Link](# Markdown Image)
+
 This is my [Relative Link](./README.md)
 
 #### lists
@@ -37,13 +41,16 @@ This is my [Relative Link](./README.md)
 - John Adams
 - Thomas Jefferson
 
+
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
 
+
 1. First list item
    - First nested list item
      - Second nested list item
+
 
 #### Task lists
 - [x] Finish my changes
