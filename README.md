@@ -1,58 +1,43 @@
 # totran.github.io
-Using Markdown
+Hi, I am Tommy Tran. I'm a third year ~~CS~~ ***Math-CS major***.
 
-# Markdown Image
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+# This is **me**.
+![Image](./Images/Me.jpg)
 
-# Header1
-## Header2
-### Header3
-#### Header4
+## Languages and Skills
+- Python
+- Html, CSS, Javascript
+- C++
 
-**bold**
+## What I want from this class
+1. Get better as programming (obviously)
+  - Html, CSS, Javascript specifically
+2. Create a product
+3. Add product to resume
 
-*italicized*
+## About me
+I don't use *a lot* of social media but here's
+my [instagram](https://www.instagram.com/tommy.traan/).
 
-~~This was mistaken text~~
+I'm **relatively _new_ to programming**, but here's a
+[random pong game I made](./Pong Game/static/index.html) as I learned a bit of
+html, css, and javascript over break.
 
-**This text is _extremely_ important**
+## What I wanted to learn over break
+- [x] Html, CSS, Javascript
+- [ ] React
+- [ ] Express & Nodejs
 
-***All this text is important***
+but hopefully I learn the rest throughout the quarter.
 
-> This is a quote.
+A random quote I like is:
+> "Failure is an option here. If things are not failing, you are not innovating enough."
 
-`git status`
-
-Some basic Git commands are:
+I don't use git commands often but here are some basic Git commands I do use when needed:
 ```
-git status
-git add
+git clone
 git commit
 ```
 
-This is my [link](https://github.com/tommytran-8/totran.github.io.git).
-
-This is my [Section Link](https://github.com/tommytran-8/totran.github.io#markdown-image)
-
-This is my [Relative Link](./README.md)
-
-#### lists
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-#### lists 2
-1. First list item
-   - First nested list item
-     - Second nested list item
-
-
-#### Task lists
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+### Return to top of page:
+[Top of the Page](https://github.com/tommytran-8/totran.github.io#totrangithubio)
