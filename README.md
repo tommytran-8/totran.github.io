@@ -2,7 +2,7 @@
 Hi, I am Tommy Tran. I'm a third year ~~CS~~ ***Math-CS major***.
 
 # This is **me**.
-![Image](./Images/Me.jpg)
+![Image](./Images/Me.JPG)
 
 ## Languages and Skills
 - Python
