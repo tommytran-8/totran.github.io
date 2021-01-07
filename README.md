@@ -20,7 +20,7 @@ I don't use *a lot* of social media but here's
 my [instagram](https://www.instagram.com/tommy.traan/).
 
 I'm **relatively _new_ to programming**, but here's a
-[random pong game I made](./Pong Game/static/index.html) as I learned a bit of
+[random pong game I made](./PongGame/static/index.html) as I learned a bit of
 html, css, and javascript over break.
 
 ## What I wanted to learn over break
