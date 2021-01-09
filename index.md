@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# totran.github.io
+Hi, I am Tommy Tran. I'm a third year ~~CS~~ ***Math-CS major***.
 
-You can use the [editor on GitHub](https://github.com/tommytran-8/totran.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# This is **me**.
+![Image](./Images/Me.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Languages and Skills
+- Python
+- Html, CSS, Javascript
+- C++
 
-### Markdown
+## What I want from this class
+1. Get better as programming (obviously)
+  - Html, CSS, Javascript specifically
+2. Create a product
+3. Add product to resume
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me
+I don't use *a lot* of social media but here's
+my [instagram](https://www.instagram.com/tommy.traan/).
 
-```markdown
-Syntax highlighted code block
+I'm **relatively _new_ to programming**, but here's a
+[random pong game I made](./PongGame/static/index.html) as I learned a bit of
+html, css, and javascript over break.
 
-# Header 1
-## Header 2
-### Header 3
+## What I wanted to learn over break
+- [x] Html, CSS, Javascript
+- [ ] React
+- [ ] Express & Nodejs
 
-- Bulleted
-- List
+but hopefully I learn the rest throughout the quarter.
 
-1. Numbered
-2. List
+A random quote I like is:
+> "Failure is an option here. If things are not failing, you are not innovating enough."
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I don't use git commands often but here are some basic Git commands I do use when needed:
+```
+git clone
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tommytran-8/totran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Return to top of page:
+[Top of the Page](https://github.com/tommytran-8/totran.github.io#totrangithubio)
