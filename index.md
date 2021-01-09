@@ -40,4 +40,4 @@ git commit
 ```
 
 ### Return to top of page:
-[Top of the Page](https://github.com/tommytran-8/totran.github.io#totrangithubio)
+[Top of the Page](https://github.com/tommytran-8/totran.github.io/blob/gh-pages/index.md#totrangithubio)
